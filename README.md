@@ -1,1 +1,1 @@
-# population
+The population of the first town is less than the population of the second town. However, the population of the first town is growing faster than the population of the second town. This program prompts the user to enter the population and growth rate of each town. The program outputs after how many years the population of the town will be greater than or equal to the population of the second town and the populations of both the towns at that time.
